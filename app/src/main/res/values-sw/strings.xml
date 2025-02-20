@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kikagua SMS</string>
+    <string name="service_status">Hali ya Huduma</string>
+    <string name="status_active">Inafanya kazi</string>
+    <string name="status_inactive">Haifanyi kazi</string>
+    <string name="test_message">Jaribu Ujumbe</string>
+    <string name="enter_message">Ingiza ujumbe wa kujaribu</string>
+    <string name="enter_sender">Ingiza namba ya mtumaji</string>
+    <string name="test_button">Jaribu Ujumbe</string>
+    <string name="statistics">Takwimu</string>
+    <string name="spam_detected">Jumbe Tapeli zilizogunduliwa: %d</string>
+    <string name="total_messages">Jumla ya jumbe zilizochakatwa: %d</string>
+    <string name="history">Historia ya Jumbe</string>
+    <string name="result_spam">Matokeo: Ujumbe huu unaonekana kuwa TAPELI</string>
+    <string name="result_ham">Matokeo: Ujumbe huu unaonekana kuwa HALALI</string>
+    <string name="change_language">Badilisha Lugha</string>
+    <string name="sender_number">Namba ya Mtumaji</string>
+    <string name="clear_history">Futa</string>
+</resources>

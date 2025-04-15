@@ -37,9 +37,10 @@ swahili-sms-filter-android/
 
 ## Screenshots
 
-<img src="./Images/screenshot_1.jpg" alt="Screenshot 1" width="300" />
-<img src="./Images/screenshot_2.jpg" alt="Screenshot 2" width="300" />
-<img src="./Images/screenshot_3.jpg" alt="Screenshot 3" width="300" />
+
+<img src="./Images/notification.jpg" alt="Notification" width="300" />
+<img src="./Images/swahili.jpg" alt="Swahili" width="300" />
+<img src="./Images/english.jpg" alt="English" width="300" />
 
 ## Technical Implementation
 

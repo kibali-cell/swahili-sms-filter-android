@@ -39,8 +39,11 @@ swahili-sms-filter-android/
 
 
 <img src="./Images/notification.jpg" alt="Notification" width="300" />
-<img src="./Images/swahili.jpg" alt="Swahili" width="150" />
-<img src="./Images/english.jpg" alt="English" width="150" />
+
+<div style="display: flex; gap: 20px; margin-top: 10px;">
+  <img src="./Images/swahili.jpg" alt="Swahili" width="300" />
+  <img src="./Images/english.jpg" alt="English" width="300" />
+</div>
 
 ## Technical Implementation
 
